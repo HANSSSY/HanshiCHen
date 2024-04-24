@@ -1,14 +1,14 @@
-site_name: 'Hanshi personal site'
+site_name: 'Hannshi Chen'
 site_description: 'My research portfolio'
 site_author: Hanshi Chen
-site_url: https://cu-esiil.github.io/personal_website_practice
+site_url: https://cu-esiil.github.io/HanshiChen
 
 # Repository
-repo_name: /personal_website_practice
-repo_url: https://github.com/HANSSSY/personal_website_practice
+repo_name: /HanshiChen
+repo_url: https://github.com/HANSSSY/HanshiChen
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
+copyright: 'Copyright &copy; 2023 Penn State University'
 
 # Page tree
 nav:
