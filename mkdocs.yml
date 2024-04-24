@@ -1,5 +1,5 @@
-site_name: 'Hannshi Chen11111'
-site_description: 'My research portfolio'
+site_name: 'Hannshi Chen'
+site_description: 'My research website'
 site_author: Hanshi Chen
 site_url: https://cu-esiil.github.io/HanshiChen
 
@@ -8,7 +8,7 @@ repo_name: /HanshiChen
 repo_url: https://github.com/HANSSSY/HanshiChen
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 Penn State University'
+copyright: 'Copyright &copy; 2024 The Pennsylvania State University'
 
 # Page tree
 nav:
